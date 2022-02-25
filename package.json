@@ -1,0 +1,23 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaquinowesley/api-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Wesley Aquino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaquinowesley/api-nodejs/issues"
+  },
+  "homepage": "https://github.com/aaquinowesley/api-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
